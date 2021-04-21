@@ -1,0 +1,1 @@
+SELECT SUM(profit_margin) FROM sales.transactions;
